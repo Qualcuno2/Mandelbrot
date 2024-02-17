@@ -1,1 +1,1 @@
-# Mandelbrot
+1.0
